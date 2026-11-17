@@ -1,2 +1,2 @@
 # SPLUNK-WINDOWS-EVENT-DASHBOARD
-SOC Analyst Lab Walkthrough &amp; Investigation Report - Slunk Windows Event Dashboard
+Splunk SOC Analyst lab investigating Windows Security Events, successful logons, privileged account activity, suspicious account creation, and security dashboard development
